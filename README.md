@@ -79,8 +79,8 @@ I am a **Full-Stack & AI Application Engineer** with **4+ years of web and full-
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **2026-07-09** · [AI 風險管理措施檢核系統開發紀錄 — FastAPI + React 的權限、版本控制與離線部署](https://blog.worksbyaaron.com/posts/ai-risk-assessment-system-development/)
 - **2026-05-05** · [從零開始學 n8n — 用免費課程搭配 AI 輔助，把重複工作自動化](https://blog.worksbyaaron.com/posts/n8n-automation-learning/)
-- **2026-02-19** · [Tailwind CSS v4 來了！速度更快、體積更小、寫法更自由](https://blog.worksbyaaron.com/posts/tailwind-v4-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on Aaron's Blog →](https://blog.worksbyaaron.com/)
