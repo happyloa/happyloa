@@ -76,6 +76,15 @@ I am a **Full-Stack & AI Application Engineer** with **4+ years of web and full-
 - **Enterprise Full-Stack Development** — Participated in and delivered 50+ custom enterprise websites and e-commerce projects using WordPress, WooCommerce, Vue, Nuxt, React, Next.js, Node.js, and PHP.
 - **Frontend & UX Implementation** — Experienced in responsive web design, component-based development, Figma-to-Web workflows, cross-browser testing, SEO, performance optimization, and maintainable UI systems.
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- **2026-05-05** · [從零開始學 n8n — 用免費課程搭配 AI 輔助，把重複工作自動化](https://blog.worksbyaaron.com/posts/n8n-automation-learning/)
+- **2026-02-19** · [Tailwind CSS v4 來了！速度更快、體積更小、寫法更自由](https://blog.worksbyaaron.com/posts/tailwind-v4-upgrade/)
+<!-- BLOG-POST-LIST:END -->
+
+[Read more on Aaron's Blog →](https://blog.worksbyaaron.com/)
+
 ## Selected Work
 
 ### Art Bank
