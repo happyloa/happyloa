@@ -62,8 +62,8 @@ I combine a **design background** with full-stack engineering experience, focusi
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **2026-09-10** · [用 Vue 的觀念理解 Laravel：前端工程師的後端入門筆記](https://blog.worksbyaaron.com/posts/laravel-php-first-backend/)
 - **2026-07-09** · [AI 風險管理措施檢核系統開發紀錄 — FastAPI + React 的權限、版本控制與離線部署](https://blog.worksbyaaron.com/posts/ai-risk-assessment-system-development/)
-- **2026-05-05** · [從零開始學 n8n — 用免費課程搭配 AI 輔助，把重複工作自動化](https://blog.worksbyaaron.com/posts/n8n-automation-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on Aaron's Blog →](https://blog.worksbyaaron.com/)
