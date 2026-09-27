@@ -1,79 +1,49 @@
 <div align="center">
 
-# Aaron
+# Aaron Hsieh · 謝宗佑
 
-### Full-Stack & AI Application Engineer
+### Full-Stack Engineer · Product Delivery & Maintenance
 
-**4+ years building web products, enterprise systems, and AI-powered applications.**
+I turn real workflows into web applications that can be deployed, tested, and improved after launch.
 
-<a href="https://www.worksbyaaron.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-worksbyaaron.com-111111?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://www.cake.me/aaron-yumin"><img src="https://img.shields.io/badge/Resume-Cake-5C5C5C?style=for-the-badge" alt="Cake Resume" /></a>
-<a href="https://blog.worksbyaaron.com/"><img src="https://img.shields.io/badge/Blog-worksbyaaron.com-0A66C2?style=for-the-badge" alt="Blog" /></a>
+[Portfolio](https://www.worksbyaaron.com/portfolio) · [Resume](https://www.cake.me/aaron-yumin) · [Technical Blog](https://blog.worksbyaaron.com/)
 
 </div>
 
 ## About
 
-I combine a **design background** with full-stack engineering experience, focusing on maintainable products that connect frontend, backend, data, and AI workflows.
+I'm a full-stack engineer with 4+ years of experience across enterprise websites, e-commerce, internal systems, and client-facing delivery. My work spans user-facing interfaces, APIs, data, integrations, and deployment. I bring a design background to understanding users and making complex workflows easier to use.
 
-- Delivered **50+ enterprise websites, e-commerce platforms, and custom systems**.
-- Build with **TypeScript, Python, Next.js, FastAPI, PostgreSQL**, and modern frontend frameworks.
-- Apply **LLM, RAG, vector search, and workflow automation** to real business use cases.
-- Experienced in **API integration, Docker deployment, WordPress/WooCommerce, performance optimization, and system maintenance**.
-- **TOEIC 895**.
+I've contributed to 50+ delivered projects. Recently, I worked on an AI risk-assessment system with role-based access, versioned records, and deployment in an offline environment. I also maintain a [WordPress.org plugin](https://wordpress.org/plugins/site-add-on-watchdog/) through public releases, bug fixes, compatibility updates, and regression tests.
 
-## Core Stack
+**Core stack:** TypeScript, React / Next.js, Vue / Nuxt, Python / FastAPI, PHP / WordPress, PostgreSQL, Docker, GitHub Actions.  
+**Additional work:** REST APIs, WooCommerce, Cloudflare, Dify, n8n, Elasticsearch, and Qdrant.
 
-### Frontend
+## Selected Work
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### [Site Add-on Watchdog](https://github.com/happyloa/site-add-on-watchdog) · Published WordPress plugin
 
-### Backend, Data & AI
+A plugin that monitors installed plugins for outdated versions and security signals, with scheduled scans, a dashboard, and optional notifications. Its [public changelog](https://wordpress.org/plugins/site-add-on-watchdog/#developers) documents follow-up releases that improved vulnerability matching, reduced false alerts, hardened scheduled scans, and added regression coverage. **PHP · WordPress · PHPUnit**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Application-6C63FF?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Vector%20Search-7B61FF?style=flat-square)
-![Dify](https://img.shields.io/badge/Dify-AI%20Workflow-155EEF?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+[WordPress.org listing](https://wordpress.org/plugins/site-add-on-watchdog/) · [Source and changelog](https://github.com/happyloa/site-add-on-watchdog)
 
-### Platform & Tools
+### AI Risk Assessment System · Client project
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+Worked on a React, FastAPI, and PostgreSQL application that made an assessment workflow traceable. The project covered role and data-scope permissions, versioned submissions, and Docker Compose deployment in an environment without internet access. Source code is private; I wrote about the engineering decisions and production issues in the [development case study](https://blog.worksbyaaron.com/posts/ai-risk-assessment-system-development/). **React · FastAPI · PostgreSQL · Docker**
 
-## What I Work On
+### [Family Album](https://github.com/happyloa/cloudflare-r2-family-album) · Full-stack project
 
-- **AI & data solutions** — FastAPI services, PostgreSQL, LLM/RAG workflows, vector search, Dify, n8n, and external integrations.
-- **Full-stack products** — Enterprise websites, e-commerce, internal systems, and custom web applications.
-- **Frontend & UX** — Responsive interfaces, component systems, Figma-to-Web implementation, SEO, and performance optimization.
+Built a media management interface on Next.js and Cloudflare R2 with upload, move, and delete APIs. The repository documents its access model, regression tests, CI verification, and deployment workflow. **Next.js · TypeScript · Cloudflare Workers / R2**
 
-## Latest Blog Posts
+### [Art Bank](https://artbank.tfaf.org.tw/) · Member frontend
+
+Implemented responsive member-facing pages and API integrations for registration, sign-in state, favorites, and rental-related flows. **Nuxt 3 · Tailwind CSS · REST APIs**
+
+## Writing
 
 <!-- BLOG-POST-LIST:START -->
 - **2026-09-10** · [用 Vue 的觀念理解 Laravel：前端工程師的後端入門筆記](https://blog.worksbyaaron.com/posts/laravel-php-first-backend/)
 - **2026-07-09** · [AI 風險管理措施檢核系統開發紀錄 — FastAPI + React 的權限、版本控制與離線部署](https://blog.worksbyaaron.com/posts/ai-risk-assessment-system-development/)
 <!-- BLOG-POST-LIST:END -->
 
-[Read more on Aaron's Blog →](https://blog.worksbyaaron.com/)
-
-## Selected Work
-
-### Art Bank
-
-**Nuxt 3 · Tailwind CSS · REST API · JWT · i18n**
-
-Built responsive frontend architecture and integrated artwork, collection, rental, pricing, authentication, multilingual, and member APIs.
-
-[Visit Art Bank](https://artbank.tfaf.org.tw/) · [View Portfolio](https://www.worksbyaaron.com/portfolio)
+[More technical notes](https://blog.worksbyaaron.com/)
