@@ -42,8 +42,8 @@ Implemented responsive member-facing pages and API integrations for registration
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- **2026-09-10** · [用 Vue 的觀念理解 Laravel：前端工程師的後端入門筆記](https://blog.worksbyaaron.com/posts/laravel-php-first-backend/)
-- **2026-07-09** · [AI 風險管理措施檢核系統開發紀錄 — FastAPI + React 的權限、版本控制與離線部署](https://blog.worksbyaaron.com/posts/ai-risk-assessment-system-development/)
+- **2026-10-02** · [資料庫規劃筆記：從搶票、多對多關係到回歸測試](https://blog.worksbyaaron.com/posts/database-planning-interview-notes/)
+- **2026-09-22** · [從商品列表到建立訂單，API 要怎麼設計？](https://blog.worksbyaaron.com/posts/api-design-products-orders/)
 <!-- BLOG-POST-LIST:END -->
 
 [More technical notes](https://blog.worksbyaaron.com/)
