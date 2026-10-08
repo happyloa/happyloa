@@ -42,8 +42,8 @@ Implemented responsive member-facing pages and API integrations for registration
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- **2026-10-07** · [PostgreSQL、MySQL、SQLite、SQL Server、MongoDB 怎麼選？從需求到語法的比較筆記](https://blog.worksbyaaron.com/posts/database-systems-comparison/)
 - **2026-10-02** · [資料庫規劃筆記：從搶票、多對多關係到回歸測試](https://blog.worksbyaaron.com/posts/database-planning-interview-notes/)
-- **2026-09-22** · [從商品列表到建立訂單，API 要怎麼設計？](https://blog.worksbyaaron.com/posts/api-design-products-orders/)
 <!-- BLOG-POST-LIST:END -->
 
 [More technical notes](https://blog.worksbyaaron.com/)
