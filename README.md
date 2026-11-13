@@ -42,8 +42,8 @@ Implemented responsive member-facing pages and API integrations for registration
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- **2026-10-07** · [PostgreSQL、MySQL、SQLite、SQL Server、MongoDB 怎麼選？從需求到語法的比較筆記](https://blog.worksbyaaron.com/posts/database-systems-comparison/)
-- **2026-10-02** · [資料庫規劃筆記：從搶票、多對多關係到回歸測試](https://blog.worksbyaaron.com/posts/database-planning-interview-notes/)
+- **2026-11-16** · [HTML Email 為什麼在 Outlook 會跑版？](https://blog.worksbyaaron.com/posts/html-email-outlook-layout/)
+- **2026-11-15** · [瀏覽器快取怎麼運作？從 Cache-Control 到 ETag](https://blog.worksbyaaron.com/posts/http-caching-cache-control-etag/)
 <!-- BLOG-POST-LIST:END -->
 
 [More technical notes](https://blog.worksbyaaron.com/)
