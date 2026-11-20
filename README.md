@@ -42,8 +42,8 @@ Implemented responsive member-facing pages and API integrations for registration
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- **2026-11-20** · [離開有毒職場後，為什麼遇到好工作反而不安？談不配得感與心理調適](https://blog.worksbyaaron.com/posts/unworthiness-after-toxic-workplace/)
 - **2026-11-16** · [HTML Email 為什麼在 Outlook 會跑版？](https://blog.worksbyaaron.com/posts/html-email-outlook-layout/)
-- **2026-11-15** · [瀏覽器快取怎麼運作？從 Cache-Control 到 ETag](https://blog.worksbyaaron.com/posts/http-caching-cache-control-etag/)
 <!-- BLOG-POST-LIST:END -->
 
 [More technical notes](https://blog.worksbyaaron.com/)
