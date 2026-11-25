@@ -66,10 +66,8 @@ Nuxt 3 · Tailwind CSS · REST APIs · [Case study](https://blog.worksbyaaron.co
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
-
 - **2026-11-20** · [離開有毒職場後，為什麼遇到好工作反而不安？談不配得感與心理調適](https://blog.worksbyaaron.com/posts/unworthiness-after-toxic-workplace/)
 - **2026-11-16** · [HTML Email 為什麼在 Outlook 會跑版？](https://blog.worksbyaaron.com/posts/html-email-outlook-layout/)
-
 <!-- BLOG-POST-LIST:END -->
 
 [All posts](https://blog.worksbyaaron.com/)
